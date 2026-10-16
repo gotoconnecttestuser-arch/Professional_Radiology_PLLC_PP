@@ -47,6 +47,16 @@ Professional Radiology PLLC does not sell, rent, or share your mobile phone numb
 
 We may share information with trusted service providers who assist us in delivering SMS communications, provided they maintain the confidentiality and security of your information and use it only for authorized business purposes.
 
+SMS Privacy and Data Sharing
+We do not share SMS-related consumer data with third parties for marketing or unrelated purposes. Consumer data, including mobile numbers and SMS consent, will not be transferred to external organizations.
+
+Permitted Service Delivery Uses
+If SMS-related consumer data must be used to support message delivery or related operational services, it is used only as strictly necessary for service delivery under the applicable compliance standard. Appropriate safeguards are maintained to protect against unauthorized access, use, or sharing.
+
+Contact for SMS Privacy Questions
+If you have questions about SMS privacy or messaging practices, please contact the sender using the contact information provided on this website.
+
+
 6. Data Security
 
 We use reasonable administrative, technical, and physical safeguards to protect your personal information from unauthorized access, disclosure, or misuse.
